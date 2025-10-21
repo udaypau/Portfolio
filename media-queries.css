@@ -1,0 +1,12 @@
+@media (max-width:1440px){
+    #desktop-nav{
+        display: none;
+        justify-content: space-between;
+      
+    }
+    #hamburger-nav{
+        display: flex;
+        
+    }
+
+}
